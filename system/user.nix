@@ -25,6 +25,10 @@
       thc-hydra
       ghidra-bin
       virtualbox
+      minecraft
+      prismlauncher
+      jdk8
+      nodePackages_latest.localtunnel
     ];
   };
 }
