@@ -10,8 +10,8 @@
       vim
       alacritty
       remmina
-      python310
-      python310Packages.ipython
+      python3
+      python312Packages.ipython
       openvpn
       nmap
       discord
@@ -29,6 +29,7 @@
       prismlauncher
       jdk8
       nodePackages_latest.localtunnel
+      nix-index
     ];
   };
 }
